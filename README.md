@@ -1,4 +1,12 @@
-### Hi there 👋
+
+# Lucas Dantas
+
+## Hi there! 👋
+
+ :coffee:  &nbsp; I am working with development apps in **LIA - Laboratório de Inteligência Artificial** and **NEPEN**
+ <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native
+ <br/> 💬  &nbsp; About: 
+I love playing cooperative games, new technologies and series/anime
 
 <!--
 **Luksdantas/Luksdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
