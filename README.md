@@ -22,4 +22,4 @@ A little about me:
 
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luksdantas/)](https://www.linkedin.com/in/lucsdantas/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luksdantas/)](https://www.linkedin.com/in/lucasdants/)
