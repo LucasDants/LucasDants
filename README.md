@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="18" height="18" /> Welcome to my Profile!
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="18" height="18" />! Welcome to my Profile!
 
 <img align="left" alt="GIF" src="http://4.bp.blogspot.com/-TBcBFMT_wM8/U4CnxAeBpwI/AAAAAAAAHwc/QWgzVVWdmZI/s1600/ONE+PIECE+2.gif" width="420" height="265" />
 
@@ -20,15 +20,14 @@ function whoAmI() {
 ```
 
 ### 🛠 Languages and Tools:
-![Javascript](https://img.shields.io/badge/-Javascript-181717?&logo=javascript&logoColor=FFFF00?) 
-![Typescript](https://img.shields.io/badge/-Typescript-181717?&logo=typescript&logoColor=FFFF00?)
-![HTML](https://img.shields.io/badge/-HTML-181717?&logo=html5&logoColor=FFFF00?)
-![CSS](https://img.shields.io/badge/-CSS-181717?&logo=css3&logoColor=FFFF00?)
-![React](https://img.shields.io/badge/-React-181717?&logo=react&logoColor=FFFF00?)
-![React Native](https://img.shields.io/badge/-React%20Native-181717?&logo=react&logoColor=FFFF00?)
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
-
+<p> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
 ### 📈 Stats 
  
