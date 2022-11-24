@@ -1,17 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="18" height="18" />! Welcome to my Profile!
 
-<img align="left" alt="GIF" src="http://4.bp.blogspot.com/-TBcBFMT_wM8/U4CnxAeBpwI/AAAAAAAAHwc/QWgzVVWdmZI/s1600/ONE+PIECE+2.gif" width="420" height="265" />
-
 
 ``` javascript 
 function whoAmI() {
     const IAm = {
         name: 'Lucas Dantas',
-        currentJob: 'Software Engineer Labsit',
+        currentJob: 'Frontend Engineer RockItCoin',
         interests: ['Frontend Development', 'Gaming Development'],
-        education: 'Computer Engineer - 6° semester',
-        hobbies: ['Watch Animes', 'Watch Soccer', 'Play Games'],
-        place: 'Ceará - Brazil',
+        education: 'Computer Engineer - 7° semester',
+        place: 'Brazil',
         challenge: 'Be better every day'
     }
 
