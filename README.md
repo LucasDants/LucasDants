@@ -5,8 +5,8 @@
 function whoAmI() {
     const IAm = {
         name: 'Lucas Dantas',
-        currentJob: 'Frontend Engineer RockItCoin',
-        interests: ['Frontend Development', 'Gaming Development'],
+        currentJob: 'Mobile Developer at RockItCoin',
+        interests: ['Mobile Development', 'Gaming Development'],
         education: 'Computer Engineer - 7° semester',
         place: 'Brazil',
         challenge: 'Be better every day'
