@@ -1,30 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="18" height="18" />! Welcome to my Profile!
 
-
-``` javascript 
-function whoAmI() {
-    const IAm = {
-        name: 'Lucas Dantas',
-        currentJob: 'Mobile Developer at RockItCoin',
-        interests: ['Mobile Development', 'Gaming Development'],
-        education: 'Computer Engineer - 7° semester',
-        place: 'Brazil',
-        challenge: 'Be better every day'
-    }
-
-    return IAm
-}
-```
-
-### 🛠 Languages and Tools:
-<p> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<p align="center">
+    <img src="https://github.com/LucasDants/LucasDants/blob/main/profile_mobile.png" alt="html" />
 </p>
+
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="18" height="18" />! Welcome to my Profile!
 
 ### 📈 Stats 
  
