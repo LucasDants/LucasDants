@@ -1,5 +1,3 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="18" height="18" />! Welcome to my Profile!
-
 <p align="center">
     <img src="https://github.com/LucasDants/LucasDants/blob/main/profile_mobile.png" alt="html" />
 </p>
